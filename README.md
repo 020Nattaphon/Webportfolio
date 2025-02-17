@@ -1,1 +1,4 @@
-Web_020
+<script>
+  // Simulate a mouse click:
+  window.location = "src/index.html";
+</script>
