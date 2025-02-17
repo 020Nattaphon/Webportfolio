@@ -1,4 +1,1 @@
-<script>
-  // Simulate a mouse click:
-  window.location = "src/index.html";
-</script>
+Webportfolio
